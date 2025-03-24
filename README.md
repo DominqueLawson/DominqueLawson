@@ -1,19 +1,20 @@
 <h1 align="center">🚀 Dominque D. Lawson | Full Stack Software Engineer | AWS Enthusiast | U.S. Navy Veteran</h1>
-<h3 align="center">👋 Hey there! I'm Dominque, a Full Stack Software Engineer with over 3 years of experience building scalable, high-performing web applications. With a background as a U.S. Navy Veteran, I bring a mission-driven approach to software development, solving complex problems with efficiency and precision.</h3>
+<h3 align="left">👋 Hey there! I'm Dominque, a Full Stack Software Engineer with over 3 years of experience building scalable, high-performing web applications. With a background as a U.S. Navy Veteran, I bring a mission-driven approach to software development, solving complex problems with efficiency and precision.</h3>
 
-🔹 Tech Stack: React, TypeScript, Java, Spring Boot, Node.js, Python, C#, AWS, SQL, DynamoDB
-🔹 Expertise: Full Stack Development | Microservices | Cloud Engineering | API Integrations | Security Best Practices
-🔹 Past Roles: Software Engineer at Amazon Prime Video & Cedarware Corp
-🔹 Certifications: Google Cybersecurity, AWS CCP + Security Specialty (In Progress)
+<p>🔹 Tech Stack: React, TypeScript, Java, Spring Boot, Node.js, Python, C#, AWS, SQL, DynamoDB</p>
+<p>🔹 Expertise: Full Stack Development | Microservices | Cloud Engineering | API Integrations | Security Best Practices</p>
+<p>🔹 Past Roles: Software Engineer at Amazon Prime Video & Cedarware Corp</p>
+<p>🔹 Certifications: Google Cybersecurity, AWS CCP + Security Specialty (In Progress)</p>
 
 💡 I thrive in fast-paced, high-impact environments, where I can design and develop scalable architectures, build micro frontends, and optimize performance. My experience spans across front-end and back-end development, cloud security, and DevOps practices.
 
 📌 What I’m Working On:
 
-🔨 A React-based portfolio website showcasing my projects & experience
-📚 Mastering AWS Security Specialty to level up my cloud expertise
-💻 A GitHub repo dedicated to practicing data structures & algorithms
-💬 Let’s connect! If you’re looking for a passionate developer who loves problem-solving and continuous learning, feel free to reach out.
+<p>- 🔨 A React-based portfolio website showcasing my projects & experience</p>
+<p>- 📚 Mastering AWS Security Specialty to level up my cloud expertise</p>
+<p>- 💻 A GitHub repo dedicated to practicing data structures & algorithms</p>
+
+<p>💬 Let’s connect! If you’re looking for a passionate developer who loves problem-solving and continuous learning, feel free to reach out.</p>
 
 📫 Let's Build Something Great!
 
